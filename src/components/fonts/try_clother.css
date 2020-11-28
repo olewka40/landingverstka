@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "TRY Clother";
+  src: url("./try/try_clother.eot"); /* IE 9 Compatibility Mode */
+  src: url("./try/try_clother.eot?#iefix") format("embedded-opentype"),
+    url("./try/try_clother.woff2") format("woff2"),
+    url("./try/try_clother.woff") format("woff"),
+    url("./try/try_clother.ttf") format("truetype"),
+    url("./try/try_clother.svg#try_clother") format("svg");
+}
